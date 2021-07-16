@@ -1,4 +1,4 @@
-# Good READ.md Generator
+# Good README.md Generator
   
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
@@ -16,12 +16,12 @@
   
   ## Installation-Instructions
   
-  node  
-  
+  Node  
+  ```node index.js```
   
   ## Usage-Information
   
-    
+  None  
   
   
   ## License
@@ -30,11 +30,11 @@
   
   ## Contribution-Guidelines
   
-  With permission
+  Permission Available
   
   ## Questions
   
   GitHub Username: [@glenhood](https://github.com/glenhood)  
   
-  Reach out to me at [glenhoodatx@gmail.com](mailto:glenhoodatx@gmail.com) for questions  
+  Please reach out to me at [glenhoodatx@gmail.com](mailto:glenhoodatx@gmail.com) for questions. Later gator.
   

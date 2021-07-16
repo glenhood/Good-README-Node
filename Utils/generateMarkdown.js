@@ -106,7 +106,7 @@ function generateMarkdown(data) {
   
   GitHub Username: [@${data.github}](https://github.com/${data.github})  
   
-  Reach out to me at [${data.email}](mailto:${data.email}) for questions  
+  Please reach out to me at [${data.email}](mailto:${data.email}) for questions. Later gator.
   `;
 }
 
