@@ -49,8 +49,8 @@ const questions = [
         choices: [
             "None",
             "MIT License",
-            "Boost Software 1.0",
-            "Eclipse ",
+            "Apache Licnese 2.0",
+            "Eclipse Public License 2.0",
             "Mozilla Public License 2.0",
         ]
     },
